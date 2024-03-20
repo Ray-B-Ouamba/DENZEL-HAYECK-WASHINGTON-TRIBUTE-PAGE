@@ -11,7 +11,6 @@ To showcase the major accomplishments in Mr. Denzel Hayes Washington's life.
  HTML, CSS, 
 
 ## OPTIMIZATIONS
-*(optional)*
 I would love to dynamise the page with a little bit of Javascript!
 
 ## LESSONS LEARNED:
