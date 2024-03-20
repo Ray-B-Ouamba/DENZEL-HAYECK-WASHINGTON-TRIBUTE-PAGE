@@ -5,7 +5,7 @@ To showcase the major accomplishments in Mr. Denzel Hayes Washington's life.
 
 **LINK TO PROJECT:** https://ray-b-ouamba.github.io/DENZEL-HAYES-WASHINGTON-TRIBUTE-PAGE/
 
-![alt tag](http://placecorgi.com/1200/650)
+
 
 ## TECH USED:
  HTML, CSS, 
